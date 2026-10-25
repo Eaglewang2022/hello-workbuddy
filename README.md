@@ -1,4 +1,4 @@
-# hello-workbudd
+# hello-workbuddy
 
 WorkBuddy GitHub 连接器接入验证仓库 —— 用于确认 GitHub 授权链路是否打通。
 
